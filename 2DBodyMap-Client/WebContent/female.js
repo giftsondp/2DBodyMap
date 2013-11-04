@@ -1,7 +1,4 @@
 
-Female.fem = function () {
-
-
 {
 
 	"metadata" :
@@ -114,5 +111,5 @@ Female.fem = function () {
 
     "animations" : []
 
-}
+
 }
